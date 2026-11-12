@@ -1,7 +1,7 @@
 {
-  "version": 202610251713,
-  "size": 2453248,
-  "sha256": "54cd494c3a9411c5db65786c2e2d03ffb26272aa86a25738592dcc5d1cfb9a65",
-  "sig": "MEUCIQCQqG0p9pA9z7bVJM6eR0Pj4ZjzT/1XB9mlhjlSX4sraQIgfrtYILRkqtvxfLmukVrkwfJBAUokQidAiaeIK4GjSA0=",
-  "url": "https://raw.githubusercontent.com/Banthum/bmsmachine-firmware/main/firmware/202610251713.bin"
+  "version": 202611120928,
+  "size": 3076704,
+  "sha256": "d2fb28e2d9df9dd8ecf4995246ea7e9880b5de225f630f0018192d7167acbb81",
+  "sig": "MEUCIQCpkuYZQhQLwYJO5rKoRscHoZBHgXSMyXKjj/raq2MgbwIgWpvsCc0NiFieKRBehL3NgCTJKDWFMaiRnd6wzOUgy6A=",
+  "url": "https://raw.githubusercontent.com/Banthum/bmsmachine-firmware/main/firmware/202611120928.bin"
 }
